@@ -1,6 +1,6 @@
 # Hi, I'm Hosni 👋💻
 
-<img align="right" src="https://github.com/hosniadel666/hosniadel666/blob/master/Nerd%20Robot1.png" alt="banner that says Hosni Adel software engineering student">
+<img align="right" src="https://github.com/hosniadel666/hosniadel666/blob/master/Nerd%20Robot.png0" alt="banner that says Hosni Adel software engineering student">
 
 <!--
 **hosniadel666/hosniadel666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
