@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/hosniadel666/hosniadel666/blob/master/aba70f998600238e2cdd9692607c0bfa.jpg" alt="banner that says Hosni Adel software engineering student">
+<img align="right" src="https://github.com/hosniadel666/hosniadel666/blob/master/Nerd%20Robot1.png" alt="banner that says Hosni Adel software engineering student">
 # Hi, I'm Hosni 👋💻
 
 
