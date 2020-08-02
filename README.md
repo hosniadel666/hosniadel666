@@ -1,5 +1,5 @@
 # Hi, I'm Hosni 👋💻
-<img align="right" src="https://github.com/hosniadel666/hosniadel666/blob/master/aba70f998600238e2cdd9692607c0bfa.jpg" alt="banner that says Hosni Adel software engineering student">
+<img  src="https://github.com/hosniadel666/hosniadel666/blob/master/aba70f998600238e2cdd9692607c0bfa.jpg" alt="banner that says Hosni Adel software engineering student">
 
 <!--
 **hosniadel666/hosniadel666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
