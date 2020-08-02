@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/hosniadel666/hosniadel666/blob/master/Nerd%20Robot.png" alt="banner that says Hosni Adel software engineering student">
+<img align="right" src="https://github.com/hosniadel666/hosniadel666/blob/master/Nerd%20Robot.png" >
 
 # Hi, I'm Hosni 👋💻
 <!--
