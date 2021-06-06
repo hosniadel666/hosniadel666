@@ -2,7 +2,6 @@
 <a target="_blank"href="https://www.linkedin.com/in/hosniadel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ak8427916@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<img align="right" alt="A nerd robot" src="https://github.com/hosniadel666/hosniadel666/blob/master/Nerd%20Robot.png" width="300" height="250">
 
 # Hi, I'm Hosni 👋💻 
 I’m a computer and systems engineering student who passionate about technology and computer science.
