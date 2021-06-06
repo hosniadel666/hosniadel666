@@ -8,8 +8,6 @@ I’m a computer and systems engineering student who passionate about technology
 - 🔭 I’m currently working on coursework projects
 - 🌱 I’m currently learning data structure and algorithms
 - 👯 I’m looking to collaborate on build a ground-up RTOS for TM4C123 
-
-<br />
 <br />
 <p align="center">
   <img src="https://img.shields.io/badge/-SKILLS-green?style=for-the-badge&logo=shikimori" />&nbsp;&nbsp;&nbsp;&nbsp;
