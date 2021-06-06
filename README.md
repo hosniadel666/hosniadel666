@@ -1,5 +1,3 @@
-
-<br/>
 <p align="center">
 <a target="_blank"href="https://www.linkedin.com/in/hosniadel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ak8427916@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,6 +10,7 @@ I’m a computer and systems engineering student who passionate about technology
 - 🌱 I’m currently learning data structur and algorithms
 - 👯 I’m looking to collaborate on build a ground-up RTOS for TM4C123 
 
+<br />
 <br />
 <br />
 <br />
