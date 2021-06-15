@@ -17,7 +17,7 @@ I’m a computer and systems engineering student who passionate about technology
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br/>
+<!-- <br/>
   <br/>
    <img src="https://img.shields.io/badge/-Profiles Link-informational?style=for-the-badge&logo=peertube" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
@@ -27,4 +27,4 @@ I’m a computer and systems engineering student who passionate about technology
    <a target="_blank"href="https://leetcode.com/user7098yK/"> <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=Leetcode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
-</p>
+</p> -->
