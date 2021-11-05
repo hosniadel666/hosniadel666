@@ -27,11 +27,11 @@
 
 
 # Hello, I'm Hosni 👋💻 
-I’m a computer and systems engineering student who passionate about embedded systems and software engineering.
-- 🔭 I’m currently working on coursework projects
+* I’m a computer and systems engineering student who passionate about embedded systems and software engineering. 
+<!--- 🔭 I’m currently working on coursework projects
 - 🌱 I’m currently learning data structure and algorithms
 - 👯 I’m looking to collaborate on build a ground-up RTOS for TM4C123 
-
+-->
 <br />
 <br />
 <p align="center">
