@@ -14,7 +14,7 @@
 <!-- ![test](https://github-readme-stats.vercel.app/api?username=hosniadel666&theme=blue-green) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosniadel666&theme=blue-green" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosniadel666&theme=blue-while" />
 </p>
 <!-- ![test](https://img.shields.io/github/followers/hosniadel666.svg?style=social&label=Follow&maxAge=2592000) -->
 
